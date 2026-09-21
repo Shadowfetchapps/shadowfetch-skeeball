@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Shadowfetch Skeeball
+GenericName=Skeeball
+Comment=Classic arcade skeeball for Linux
+Exec=shadowfetch-skeeball
+TryExec=shadowfetch-skeeball
+Icon=shadowfetch-skeeball
+Terminal=false
+Categories=Game;
+Keywords=skeeball;arcade;rings;shadowfetch;
+StartupNotify=true
+StartupWMClass=Shadowfetch Skeeball
